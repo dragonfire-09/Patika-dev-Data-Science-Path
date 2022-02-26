@@ -1,5 +1,8 @@
 # Data-Science-Path
 ![](https://www.hizliresim.com/h0gxmn4)
+I created this repository to complete the data science path available on the path.dev platform and to share the requested assignments and notes.
+
+The trainings on the Data Science path are as follows:
 
 
 - [Data Structures and Algorithms](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar) ✅
