@@ -1,1 +1,1 @@
-# Patika-dev---Data-Science-Path
+# Data-Science-Path
