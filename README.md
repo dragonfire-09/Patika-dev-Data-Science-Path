@@ -23,3 +23,7 @@ The trainings on the Data Science path are as follows:
 ✅ : Completed trainings
 
 ✏️ : trainings in the process
+
+my page
+
+https://app.patika.dev/dragonfire-09
